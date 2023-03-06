@@ -6,3 +6,5 @@ Blue
 Red
 Yellow
 Green
+
+This is color of rainbow
