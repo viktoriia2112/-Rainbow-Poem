@@ -6,6 +6,7 @@ Blue
 Red
 Yellow
 Green
+White
 Unicorn
 
 This is color of rainbow
